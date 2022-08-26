@@ -1,0 +1,7 @@
+C:\Users\DANISH LAPTOP\source\repos\OopEncapsulation\OopEncapsulation\bin\Debug\OopEncapsulation.exe.config
+C:\Users\DANISH LAPTOP\source\repos\OopEncapsulation\OopEncapsulation\bin\Debug\OopEncapsulation.exe
+C:\Users\DANISH LAPTOP\source\repos\OopEncapsulation\OopEncapsulation\bin\Debug\OopEncapsulation.pdb
+C:\Users\DANISH LAPTOP\source\repos\OopEncapsulation\OopEncapsulation\obj\Debug\OopEncapsulation.csprojAssemblyReference.cache
+C:\Users\DANISH LAPTOP\source\repos\OopEncapsulation\OopEncapsulation\obj\Debug\OopEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\DANISH LAPTOP\source\repos\OopEncapsulation\OopEncapsulation\obj\Debug\OopEncapsulation.exe
+C:\Users\DANISH LAPTOP\source\repos\OopEncapsulation\OopEncapsulation\obj\Debug\OopEncapsulation.pdb
